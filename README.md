@@ -1,4 +1,13 @@
-# 42sh
+# 42SH – POSIX-Compliant Shell
+
+**42SH** is a fully functional command-line shell built in C as part of a systems programming project. It replicates and extends core behaviors of standard UNIX shells (like `bash` and `sh`).
+
+This project provided in-depth exposure to:
+
+- Low-level process management (`fork`, `exec`, `wait`)  
+- File descriptor manipulation  
+- Tokenization and parsing techniques  
+- State machine logic and command tree execution
 
 ### Compilation
 
