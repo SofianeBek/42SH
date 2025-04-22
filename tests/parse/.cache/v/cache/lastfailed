@@ -1,0 +1,5 @@
+{
+  "test_42sh_parse.py::Test_command_lists::()::test_unexpected_token_one": true,
+  "test_42sh_parse.py::Test_command_lists::()::test_unexpected_token_two": true,
+  "test_42sh_parse.py::Test_pipelines::()::test_pipelines_rule_if": true
+}

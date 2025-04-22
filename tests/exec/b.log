@@ -1,0 +1,12 @@
+e.log
+b.log
+exec_tests.sh
+test_end_or.sh
+test_besic.sh
+test_compound_list.sh
+test_nested_if.sh
+test_pipe.sh
+a.log
+b.log
+exec_tests.sh
+test_and_or.sh
